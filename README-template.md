@@ -28,20 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="572" alt="Screen Shot 2021-11-13 at 2 23 31 PM" src="https://user-images.githubusercontent.com/69512496/143189939-60d5fb1e-0c94-45bf-afa6-9b1df9c63f50.png">
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://hassanidris.github.io/four-cards-feature-section/)
 
 ## My process
 
